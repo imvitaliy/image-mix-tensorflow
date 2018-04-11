@@ -2,5 +2,4 @@ numpy
 Pillow  # provides PIL
 scipy
 tensorflow # installs tensorflow with GPU support, should still work even without GPU
-wget "http://domain.com/directory/4?action=AttachFile&do=view&target=file.tgz" 
 
